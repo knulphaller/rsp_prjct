@@ -1,0 +1,16 @@
+GSM
+
+3 sda
+5 scl
+11 power
+8 txt
+10 rxt
+12 rst
+
+Light
+qara -2 vcc
+ag -7 do   gpio4
+boz - 6 gnd
+
+
+pir
